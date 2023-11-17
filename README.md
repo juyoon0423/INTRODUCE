@@ -1,16 +1,35 @@
-### Hi there 👋
+# 박주윤
 
-<!--
-**juyoon0423/juyoon0423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+출생년도 : 1999. 04. 23
 
-Here are some ideas to get you started:
+이메일 주소 : juyoon0423@daum.net
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 개발 경력
+
+두달 전 개발자 공부를 시작하였으며 아주 기초적인 **Java 프로그래밍 언어**와 **HTML, CSS의 개념**을 학습
+
+## 사용 가능 언어
+
+- java
+
+## 풀고있는 알고리즘 사이트
+
+- 백준
+
+1. 브론즈 100문제
+   - 조건문
+   - 반복문
+   - 배열
+
+## 취미
+
+1. 운동
+   1. 헬스
+   2. 축구
+2. 여행
+
+## 출신학교
+
+- 태장초등학교
+- 진광중학교
+- 대성고등학교
