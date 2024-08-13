@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Java 17-FF160B?style=flat-square&logo=java&logoColor=white"/>
 
 #### &nbsp;　[ DB ]
-&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-569A31?style=flat-square&logo=amazon s3&logoColor=white"/>
+&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
 
 #### &nbsp;　[ Backend ]
@@ -27,10 +27,14 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
 
 
+#### &nbsp;　[ Infra ]
+&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/AWS-569A31?style=flat-square&logo=amazon s3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+
 #### &nbsp;　[ Etc... ]
 
 &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+
 
 
