@@ -43,14 +43,7 @@ Java와 Spring Boot를 활용해 다양한 웹 애플리케이션을 개발해�
 ### 🛠️ 기능 구현
 #### [익명 커뮤니티 게시판](https://github.com/juyoon0423/Mission_ParkJuYoon)
 - **설명**: 이 프로젝트는 CRUD 기능을 제공하는 기본적인 게시판을 구현했습니다. 게시글 작성, 조회, 수정, 삭제 기능을 포함하고 있습니다.
-- **기술 스택**:
-&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white&color=darkblue">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black">
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
-<img src="https://img.shields.io/badge/BootStrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
-
+- **기술 스택**: Java 17, Spring Boot, JPA, SQLite
 - **학습 경험**: Spring Boot를 처음 학습하며, 프로젝트 구조 설계 및 RESTful API 구현에 대해 이해하게 되었습니다. 특히, JPA를 활용한 데이터베이스 연동과 ORM 개념을 익혔으며, 다양한 오류를 해결하며 디버깅 능력을 향상시켰습니다. 또한, 이 프로젝트를 통해 백엔드 개발의 기본기를 다질 수 있었습니다.
 
 #### [기부 결제 및 관리 서비스](https://github.com/likelion-backend8th-5team/Oneclick_Donation)
