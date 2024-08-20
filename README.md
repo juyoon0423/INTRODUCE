@@ -57,6 +57,6 @@ Java와 Spring Boot를 활용해 다양한 웹 애플리케이션을 개발해�
 - **기술 스택**: AWS, Docker, Spring Boot, Open API
 - **학습 경험**: 이 프로젝트를 통해 공공기관의 Open API를 활용하여 실시간 데이터를 가져오는 방법을 익혔습니다. 또한, Docker를 사용하여 애플리케이션을 컨테이너화하고, AWS에 배포하는 과정을 경험하면서 DevOps의 기본 개념을 이해했습니다. Spring Boot 템플릿 엔진을 활용하여 사용자 인터페이스를 구현하는 과정에서도 다양한 템플릿을 적용하며 프론트엔드 개발에 대한 이해를 높일 수 있었습니다.
 - **성과**: Docker를 활용하여 애플리케이션의 환경 설정을 자동화하고, AWS에 안정적으로 배포하여 실제로 운영 가능한 상태로 만들었습니다. 이 프로젝트를 통해 배포 과정의 효율성을 높이고, 프로젝트의 완성도를 한층 높일 수 있었습니다.
-<img src="https://github.com/user-attachments/assets/e29d2ca1-a2f0-42b2-b97b-2e41942a781c" alt="라이딩" width="700" height="700"/>
+<img src="https://github.com/user-attachments/assets/e29d2ca1-a2f0-42b2-b97b-2e41942a781c" alt="라이딩" width="600" height="450"/>
 
 
