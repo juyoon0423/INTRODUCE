@@ -38,15 +38,15 @@ Java와 Spring Boot를 활용해 다양한 웹 애플리케이션을 개발해�
 
 &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-<br>
 
 ### 🛠️ 프로젝트 소개 및 기능 구현
+
 #### [익명 커뮤니티 게시판](https://github.com/juyoon0423/Mission_ParkJuYoon)
 - **설명**: 이 프로젝트는 CRUD 기능을 제공하는 기본적인 게시판을 구현했습니다. 게시글 작성, 조회, 수정, 삭제 기능을 포함하고 있습니다.
 - **기술 스택**: Java 17, Spring Boot, JPA, SQLite
 - **학습 경험**: Spring Boot를 처음 학습하며, 프로젝트 구조 설계 및 RESTful API 구현에 대해 이해하게 되었습니다. 특히, JPA를 활용한 데이터베이스 연동과 ORM 개념을 익혔으며, 다양한 오류를 해결하며 디버깅 능력을 향상시켰습니다. 또한, 이 프로젝트를 통해 백엔드 개발의 기본기를 다질 수 있었습니다.
 
-<br>
+
 #### [기부 결제 및 관리 서비스](https://github.com/likelion-backend8th-5team/Oneclick_Donation)
 - **설명**: 이 프로젝트는 사용자 인증 및 결제 시스템을 포함한 기부 플랫폼을 구현했습니다. OAuth2를 활용한 소셜 로그인, Toss API를 활용한 결제 기능 등을 구현했습니다.
 - **기술 스택**: Spring Security, OAuth2, Toss API, Spring Boot
@@ -57,7 +57,7 @@ Java와 Spring Boot를 활용해 다양한 웹 애플리케이션을 개발해�
     <img src="https://github.com/user-attachments/assets/0141dbb4-36fd-4488-8150-ee5a8ba51ba6" alt="라이딩" width="400" height="350"/>
 </div>
 
-<br>
+
 #### [안전한 라이딩을 위한 커뮤니티 서비스](https://github.com/soeunc/safe_ride)
 - **설명**: 안전한 자전거 라이딩 위한 경로 안내 시스템을 구현했습니다. Open API를 활용하여 실시간 교통 정보를 제공하며, Docker와 AWS를 사용해 배포했습니다.
 - **기술 스택**: AWS, Docker, Spring Boot, Open API
