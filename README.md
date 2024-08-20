@@ -45,6 +45,7 @@ Java와 Spring Boot를 활용해 다양한 웹 애플리케이션을 개발해�
 - **설명**: 이 프로젝트는 CRUD 기능을 제공하는 기본적인 게시판을 구현했습니다. 게시글 작성, 조회, 수정, 삭제 기능을 포함하고 있습니다.
 - **기술 스택**: Java 17, Spring Boot, JPA, SQLite
 - **학습 경험**: Spring Boot를 처음 학습하며, 프로젝트 구조 설계 및 RESTful API 구현에 대해 이해하게 되었습니다. 특히, JPA를 활용한 데이터베이스 연동과 ORM 개념을 익혔으며, 다양한 오류를 해결하며 디버깅 능력을 향상시켰습니다. 또한, 이 프로젝트를 통해 백엔드 개발의 기본기를 다질 수 있었습니다.
+![라이딩](https://github.com/user-attachments/assets/e29d2ca1-a2f0-42b2-b97b-2e41942a781c)
 
 #### [기부 결제 및 관리 서비스](https://github.com/likelion-backend8th-5team/Oneclick_Donation)
 - **설명**: 이 프로젝트는 사용자 인증 및 결제 시스템을 포함한 기부 플랫폼을 구현했습니다. OAuth2를 활용한 소셜 로그인, Toss API를 활용한 결제 기능 등을 구현했습니다.
