@@ -45,7 +45,6 @@ Java와 Spring Boot를 활용해 다양한 웹 애플리케이션을 개발해�
 - **설명**: 이 프로젝트는 CRUD 기능을 제공하는 기본적인 게시판을 구현했습니다. 게시글 작성, 조회, 수정, 삭제 기능을 포함하고 있습니다.
 - **기술 스택**: Java 17, Spring Boot, JPA, SQLite
 - **학습 경험**: Spring Boot를 처음 학습하며, 프로젝트 구조 설계 및 RESTful API 구현에 대해 이해하게 되었습니다. 특히, JPA를 활용한 데이터베이스 연동과 ORM 개념을 익혔으며, 다양한 오류를 해결하며 디버깅 능력을 향상시켰습니다. 또한, 이 프로젝트를 통해 백엔드 개발의 기본기를 다질 수 있었습니다.
-![라이딩](https://github.com/user-attachments/assets/e29d2ca1-a2f0-42b2-b97b-2e41942a781c)
 
 #### [기부 결제 및 관리 서비스](https://github.com/likelion-backend8th-5team/Oneclick_Donation)
 - **설명**: 이 프로젝트는 사용자 인증 및 결제 시스템을 포함한 기부 플랫폼을 구현했습니다. OAuth2를 활용한 소셜 로그인, Toss API를 활용한 결제 기능 등을 구현했습니다.
@@ -58,4 +57,6 @@ Java와 Spring Boot를 활용해 다양한 웹 애플리케이션을 개발해�
 - **기술 스택**: AWS, Docker, Spring Boot, Open API
 - **학습 경험**: 이 프로젝트를 통해 공공기관의 Open API를 활용하여 실시간 데이터를 가져오는 방법을 익혔습니다. 또한, Docker를 사용하여 애플리케이션을 컨테이너화하고, AWS에 배포하는 과정을 경험하면서 DevOps의 기본 개념을 이해했습니다. Spring Boot 템플릿 엔진을 활용하여 사용자 인터페이스를 구현하는 과정에서도 다양한 템플릿을 적용하며 프론트엔드 개발에 대한 이해를 높일 수 있었습니다.
 - **성과**: Docker를 활용하여 애플리케이션의 환경 설정을 자동화하고, AWS에 안정적으로 배포하여 실제로 운영 가능한 상태로 만들었습니다. 이 프로젝트를 통해 배포 과정의 효율성을 높이고, 프로젝트의 완성도를 한층 높일 수 있었습니다.
+<img src="https://github.com/user-attachments/assets/e29d2ca1-a2f0-42b2-b97b-2e41942a781c" alt="라이딩" width="300" height="200"/>
+
 
