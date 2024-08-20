@@ -51,6 +51,7 @@ Java와 Spring Boot를 활용해 다양한 웹 애플리케이션을 개발해�
 - **기술 스택**: Spring Security, OAuth2, Toss API, Spring Boot
 - **학습 경험**: 첫 팀 프로젝트로서, 협업을 통해 Spring Security와 OAuth2를 활용한 사용자 인증 시스템을 구현하는 방법을 배웠습니다. 특히, Toss API를 사용한 결제 시스템 통합 과정에서 실시간 결제 처리와 보안의 중요성을 이해하게 되었습니다. 팀원들과의 원활한 소통을 통해 역할을 분담하고, Git을 사용한 코드 버전 관리를 경험했습니다.
 - **성과**: 프로젝트를 통해 팀 내에서 백엔드 개발을 주도적으로 맡아, 복잡한 OAuth2 인증 흐름을 성공적으로 구현했습니다. 또한, 팀워크와 협업의 중요성을 깨달으며, 실무에서의 협업 환경을 미리 경험할 수 있었습니다.
+<img src="https://github.com/user-attachments/assets/96d9e4dd-af54-40e8-bccd-b8aab65504a1" alt="라이딩" width="500" height="400"/> <img src="https://github.com/user-attachments/assets/0141dbb4-36fd-4488-8150-ee5a8ba51ba6" alt="라이딩" width="500" height="400"/>
 
 #### [안전한 라이딩을 위한 커뮤니티 서비스](https://github.com/soeunc/safe_ride)
 - **설명**: 안전한 자전거 라이딩 위한 경로 안내 시스템을 구현했습니다. Open API를 활용하여 실시간 교통 정보를 제공하며, Docker와 AWS를 사용해 배포했습니다.
