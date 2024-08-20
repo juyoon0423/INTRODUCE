@@ -49,6 +49,7 @@ Java와 Spring Boot를 활용해 다양한 웹 애플리케이션을 개발해�
     <img src="https://github.com/user-attachments/assets/13ae912e-c1ba-4a92-98b7-84d590d67fb3" alt="게시판" width="400" height="350"/>
     <img src="https://github.com/user-attachments/assets/b3b20207-38be-48b9-b7b3-4f69257b2198" alt="라이딩" width="400" height="350"/>
 </div>
+<br>
 
 
 #### [기부 결제 및 관리 서비스](https://github.com/likelion-backend8th-5team/Oneclick_Donation)
@@ -60,6 +61,7 @@ Java와 Spring Boot를 활용해 다양한 웹 애플리케이션을 개발해�
     <img src="https://github.com/user-attachments/assets/96d9e4dd-af54-40e8-bccd-b8aab65504a1" alt="라이딩" width="400" height="350"/>
     <img src="https://github.com/user-attachments/assets/0141dbb4-36fd-4488-8150-ee5a8ba51ba6" alt="라이딩" width="400" height="350"/>
 </div>
+<br>
 
 
 #### [안전한 라이딩을 위한 커뮤니티 서비스](https://github.com/soeunc/safe_ride)
