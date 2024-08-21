@@ -69,7 +69,7 @@ Java와 Spring Boot를 활용해 다양한 웹 애플리케이션을 개발해�
 <br>
 
 
-#### [안전한 라이딩을 위한 커뮤니티 서비스](https://github.com/soeunc/safe_ride)
+#### [안전한 라이딩을 위한 커뮤니티 서비스](https://github.com/juyoon0423/safe_ride_readme_only/tree/main)
 - **설명**: 안전한 자전거 라이딩 위한 경로 안내 시스템을 구현했습니다. Open API를 활용하여 실시간 교통 정보를 제공하며, Docker와 AWS를 사용해 배포했습니다.
 - **기술 스택**: AWS, Docker, Spring Boot, Open API
 - **이미지**:
