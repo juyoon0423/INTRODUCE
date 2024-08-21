@@ -63,7 +63,7 @@ Java와 Spring Boot를 활용해 다양한 웹 애플리케이션을 개발해�
 - **기술 스택**: Spring Security, OAuth2, Toss API, Spring Boot
 - **이미지**:
   <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/user-attachments/assets/0141dbb4-36fd-4488-8150-ee5a8ba51ba6" alt="라이딩" width="400" height="300"/>
+    <img src="https://github.com/user-attachments/assets/d6a9e6c7-77bc-4475-89d3-9f33705259e0" alt="라이딩" width="400" height="300"/>
     <img src="https://github.com/user-attachments/assets/416c7b11-d330-437d-a76a-a89d37692dd4" alt="라이딩" width="400" height="300"/>
 </div>
 
