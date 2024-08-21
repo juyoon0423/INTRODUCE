@@ -59,8 +59,8 @@ Java와 Spring Boot를 활용해 다양한 웹 애플리케이션을 개발해�
 - **기술 스택**: Spring Security, OAuth2, Toss API, Spring Boot
 - **이미지**:
   <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/user-attachments/assets/96d9e4dd-af54-40e8-bccd-b8aab65504a1" alt="라이딩" width="400" height="300"/>
     <img src="https://github.com/user-attachments/assets/0141dbb4-36fd-4488-8150-ee5a8ba51ba6" alt="라이딩" width="400" height="300"/>
+    <img src="https://github.com/user-attachments/assets/416c7b11-d330-437d-a76a-a89d37692dd4" alt="라이딩" width="400" height="300"/>
 </div>
 
 - **학습 경험**: 첫 팀 프로젝트로서, 협업을 통해 Spring Security와 OAuth2를 활용한 사용자 인증 시스템을 구현하는 방법을 배웠습니다. 특히, Toss API를 사용한 결제 시스템 통합 과정에서 실시간 결제 처리와 보안의 중요성을 이해하게 되었습니다. 팀원들과의 원활한 소통을 통해 역할을 분담하고, Git을 사용한 코드 버전 관리를 경험했습니다.
