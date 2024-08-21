@@ -41,7 +41,7 @@ Java와 Spring Boot를 활용해 다양한 웹 애플리케이션을 개발해�
 
 ### 🛠️ 프로젝트 소개 및 기능 구현
 
-#### [익명 커뮤니티 게시판](https://github.com/juyoon0423/Mission_ParkJuYoon)
+#### [익명 커뮤니티 게시판](https://github.com/juyoon0423/bulletin-board_readme_only)
 - **설명**: 이 프로젝트는 CRUD 기능을 제공하는 기본적인 게시판을 구현했습니다. 게시글 작성, 조회, 수정, 삭제 기능을 포함하고 있습니다.
 - **기술 스택**: Java 17, Spring Boot, JPA, SQLite
 - **이미지**:
