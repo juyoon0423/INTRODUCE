@@ -54,7 +54,7 @@ Java와 Spring Boot를 활용해 다양한 웹 애플리케이션을 개발해�
 <br>
 
 
-#### [기부 결제 및 관리 서비스](https://github.com/likelion-backend8th-5team/Oneclick_Donation)
+#### [기부 결제 및 관리 서비스](https://github.com/juyoon0423/juyoon0423-Oneclick_Donation_Only_reademe)
 - **설명**: 이 프로젝트는 사용자 인증 및 결제 시스템을 포함한 기부 플랫폼을 구현했습니다. OAuth2를 활용한 소셜 로그인, Toss API를 활용한 결제 기능 등을 구현했습니다.
 - **기술 스택**: Spring Security, OAuth2, Toss API, Spring Boot
 - **이미지**:
